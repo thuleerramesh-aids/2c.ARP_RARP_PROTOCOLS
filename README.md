@@ -67,11 +67,10 @@ while True:
 c.close()
 ```
 ## OUPUT - ARP
-##server:
 <img width="930" height="287" alt="image" src="https://github.com/user-attachments/assets/3afe17b6-c204-4f0e-bc11-983c90cef437" />
 
 
-##client:
+
 <img width="931" height="300" alt="image" src="https://github.com/user-attachments/assets/053b543f-6095-4a3e-9ac6-1ca136804823" />
 
 
